@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "asdfasdf",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-03-05T16:42:48.735Z",
+      "notes": "asdfasdf",
+      "position": {
+        "lat": "36.26932780951535",
+        "lng": "59.59585189819337"
+      },
+      "id": 1
+    }
+  ]
+}
